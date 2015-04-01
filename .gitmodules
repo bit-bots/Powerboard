@@ -1,0 +1,3 @@
+[submodule "CommonFiles"]
+	path = CommonFiles
+	url = git@github.com:bit-bots/CommonPcbFiles.git

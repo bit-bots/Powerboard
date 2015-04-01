@@ -1,0 +1,40 @@
+Field=Comment~String~Comment~98|Field=Description~String~Description~98|Field=Quantity~Integer~Quantity~98|Field=Manufacturer 1~String~Manufacturer 1~98|Field=Supplier 1~String~Supplier 1~98|Field=Supplier Order Qty 1~Integer~Supplier Order Qty 1~164|Field=Supplier Part Number 1~String~Supplier Part Number 1~91|Field=Supplier Unit Price 1~Float~Supplier Unit Price 1~38|Field=Supplier Subtotal 1~Float~Supplier Subtotal 1~103|ReportField=Currency~EUR|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~Powerboard.PrjPcb|ReportField=ProjectFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Powerboard\Powerboard.PrjPcb|ReportField=Title~Copy of Bill of Materials For Project [Powerboard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~85|ReportField=ReportTime~19:28:38|ReportField=ReportDate~01.04.2015|ReportField=ReportDateTime~01.04.2015 19:28:38|ReportField=OutputName~Copy of Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=ProjectRevision~C|ReportField=Address1~Vogt-Kölln-Str. 30|ReportField=Address2~225257 Hamburg|ReportField=Address3~Germany|ReportField=Address4~www.bit-bots.de|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Robocup|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=EMail~info@bit-bots.de|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~|ReportField=Organization~Hamburg Bit-Bots|ReportField=ProjectName~|ReportField=Revision~A|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~7|ReportField=Time~|ReportField=Title~Powerboard Overview|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Powerboard.PrjPcb|ReportField=DataSourceFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Powerboard\Powerboard.PrjPcb
+1K|Resistor|3||||||
+1M02|Resistor|5||||||
+1nF|Capacitor|3||||||
+2k2|Resistor|1||||||
+3V3-OK|Green|1||||||
+4-24-4-Connector|Samtec Connector|1||||||
+4k7|Resistor|5||||||
+5V-OK|Green|1||||||
+6k8|Resistor|1||||||
+10k|Resistor|5||||||
+10uF|Polarized Capacitor (Radial)|1||||||
+12V-OK|Green|1||||||
+13k|Resistor|3||||||
+15pF|Capacitor|1|MULTICOMP|Farnell|100|1759193|0,017|
+21k|Resistor|2||||||
+51k1|Resistor|1||||||
+59k|Resistor|3||||||
+74HC04|Hex Inverter|1|NXP|Farnell|100|2445100|0,124|
+76k8|Resistor|1||||||
+88k7|Resistor|2||||||
+100nF|Capacitor|1|MULTICOMP|Farnell|100|1759265|0,011|
+100nF|Capacitor|12||||||
+100uF/25V|Polarized Capacitor (Axial)|2||||||
+100uH|Inductor|2||||||
+255k|Resistor|4||||||
+330uF/6V|Polarized Capacitor (Axial)|2||||||
+820R|Resistor|2||||||
+2200uF|Polarized Capacitor (Axial)|2||||||
+ACS712|Fully Integrated, Hall Effect-Based Linear Current Sensor IC with 2.1 kVRMS Isolation and a Low-Resistance Current Conductor|3||||||
+AP4435GH|P-Channel MOSFET|1||||||
+BC846BLT1G|NPN Bipolar Transistor|1||||||
+FXO-HC736R-16|Oscillator with Enable Input|1|FOX ELECTRONICS|Farnell|100|1640997|1,65|
+IRF7324|Dual-Channel P-Mosfet with default Pins|3||||||
+LM2576S-3.3|SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-263|1||||||
+LM2576S-5.0/NOPB|SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-263, Pb-Free|1||||||
+LTC4417CGN#PBF|Prioritized PowerPath Controller, 2.5 to 36 V Vin, 24-pin SOP (GN-24), 0 to 70 degC, Pb-Free|1||||||
+Status-LED|Green|1||||||
+STM32F030F4P6|ARM Cortex-M0 32-bit MCU, 16 KB Flash, 4 KB Internal RAM, 15 I/Os, 20-pin TSSOP, -40 to 85 degC, Tube|1||||||
+STPS1045B|Schottky Rectifier|2||||||
