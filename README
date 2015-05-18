@@ -9,7 +9,17 @@ All rights reserved
 
 For full license information refer to LICENSE file.
 
-Content TODO =)
+1. Schematics
+  All the schematics are made with Altium Designer. A trail version is available under http://www.altium.com/free-trial All needed documents are
+  exported and can be used with any standard viewer (pdf, gerber, step, xls).
+  If you'd like to edit 
+  
+
+2. Output
+  There are several outputs for using along with the schematics, code and the board itself. It contains a 3D-Model, a simple BOM, a PDF -- which contains all schematics and pcb views -- and Gerber files for producing the board.
+
+3. Code
+  The code is currently under development. Further information will be posted here, when it's done.
 
 If you like to give us feedback in any form, feel free to contact us by email
 at info@bit-bots.de. For information about our team, events and progress check
